@@ -77,11 +77,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Prixis10/Prixis10/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif"  />
