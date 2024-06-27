@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://pa1.aminoapps.com/7066/1f53f0830d12e8b5078854fc00f8ef1a0b46bc0dr1-1024-576_hq.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif"  />
 
 ###
 
@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif"  />
+  <img height="200" src="https://pa1.aminoapps.com/7066/1f53f0830d12e8b5078854fc00f8ef1a0b46bc0dr1-1024-576_hq.gif"  />
 </div>
 
 ###
