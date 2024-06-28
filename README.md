@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img height="" src="https://i.ibb.co/gdY7WrZ/Machine-Learning-Developer-20240628-022739-0000.png"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prixis10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Prixis10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prixis10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -84,7 +90,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif"  />
+  <img height="450" src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif"  />
 </div>
 
 ###
