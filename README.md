@@ -67,7 +67,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:prxmit.roy@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/prxmit.roy@gmail.com/#compose" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/prxmit" target="_blank">
