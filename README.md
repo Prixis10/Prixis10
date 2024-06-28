@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <img height="450" src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif"  />
+  <img height="" src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif"  />
 </div>
 
 ###
