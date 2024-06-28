@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I'm Pramit, and I am a final-year student with a passion for development.</h2>
+<h2 align="left">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="30" width="30" />! I'm Pramit, and I am a final-year student with a passion for development.</h2>
 
 ###
 
@@ -7,6 +7,7 @@
 </div>
 
 ###
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prixis10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -80,6 +81,9 @@
   </a>
   <a href="421581384495267851" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/09a14e71-14db-4486-a589-c30f05c67dd2" target="_blank">
+    <img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
   </a>
 </div>
 
